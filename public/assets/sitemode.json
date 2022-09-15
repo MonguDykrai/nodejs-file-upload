@@ -1,0 +1,10 @@
+{
+  "general": {
+    "menuTitle": "闪马智能",
+    "smallIcon": "/child/admin/assets/imgs/logo.svg",
+    "applicationCode": "flow",
+    "casServerUrl": "http://sm.com:10107/cas/",
+    "eventTitle": "事件",
+    "messageCheckPeriod": 10000
+  }
+}

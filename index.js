@@ -44,4 +44,5 @@ server.on("request", async (req, res) => {
     res.end("received file chunk");
   });
 });
-server.listen(3000, () => console.log("正在监听 3000 端口"));
+server.listen(3002, () => console.log("正在监听 3000 端口"));
+// server.listen(3000, () => console.log("正在监听 3000 端口"));
